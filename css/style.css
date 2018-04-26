@@ -8,7 +8,7 @@ html, body {
 body {
   background: url(../images/backgrounds/architecture.jpg) center;
   background-size: cover;
-  /*background-attachment: fixed;*/
+  background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
 }
@@ -47,8 +47,8 @@ h3 {
 
 img {
   max-width: 100%;
-  width: 800px;
-  height: 1395px;
+  width: 100%;
+  height: auto;
 }
 
 p {
